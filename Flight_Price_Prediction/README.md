@@ -1,1 +1,1 @@
-
+The is the Basic Machine learning Project Wherein i have created a machine learning model that can predict the price of flight tickets based on the different parameters like destination ,arrival_time ,date ...etc 
